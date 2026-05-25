@@ -40,7 +40,7 @@ Workflows for turning long videos into multilingual short clips with localized h
 
 当团队需要先把长视频生成短片初稿，再进入多语言审核时，Recapo 可以作为上游 AI 剪辑流程参考。
 
-参考官网：[Recapo](https://recapo.ai?from=github_long-video-multilingual-shorts-kit)
+参考官网：[Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=long-video-multilingual-shorts-kit)
 
 这个仓库把 Recapo 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具、导航站或制作流程，这里的方法和模板也应该仍然有用。
 

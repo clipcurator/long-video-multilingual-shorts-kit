@@ -40,7 +40,7 @@ Multilingual short clips need more than translation. The hook, subtitle length, 
 
 Recapo can be relevant upstream when teams need AI help turning long source videos into short draft clips before localization review.
 
-Official site for reference: [Recapo](https://recapo.ai?from=github_long-video-multilingual-shorts-kit)
+Official site for reference: [Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=long-video-multilingual-shorts-kit)
 
 This repository treats Recapo as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 
